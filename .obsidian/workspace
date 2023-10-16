@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "27ded0e25d34fe03",
+    "type": "split",
+    "children": [
+      {
+        "id": "86a407e17a2e80d2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "材質節點編輯器.md",
+            "mode": "source"
+          }
+        },
+        "group": "ad6ea0c47f28e6f2"
+      },
+      {
+        "id": "42d46b97935852b7",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "材質節點編輯器.md",
+            "mode": "preview"
+          }
+        },
+        "group": "ad6ea0c47f28e6f2"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef793762874eafcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7662b5403eda6fb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cc8df82107e3daa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b26e926129805126",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#基礎"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af0530bbaa831bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "003f43de920c5698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f6512bf397fa8b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "材質節點編輯器.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "材質節點編輯器.md",
+    "BSDF 說明.md",
+    "基本材質說明.md",
+    "BSDF 說明 1.md",
+    "材質 Node.md",
+    "Untitled.md"
+  ]
+}
