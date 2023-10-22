@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "86a407e17a2e80d2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "材質節點編輯器.md",
-            "mode": "source"
-          }
-        },
-        "group": "ad6ea0c47f28e6f2"
-      },
-      {
-        "id": "42d46b97935852b7",
+        "id": "29a6295abb4950de",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "材質節點編輯器.md",
-            "mode": "preview"
+            "file": "材質/Plugin/Node Wrangler.md",
+            "mode": "source"
           }
-        },
-        "group": "ad6ea0c47f28e6f2"
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "材質節點編輯器.md"
+                "file": "材質/Plugin/Node Wrangler.md"
               }
             }
           }
@@ -89,11 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "材質/Plugin/Node Wrangler.md",
+    "材質/Node/Voronoi Texture.md",
+    "材質/材質技巧.md",
+    "材質/基本材質說明.md",
+    "材質/材質節點編輯器.md",
+    "常用快速鍵.md",
+    "材質技巧.md",
     "材質節點編輯器.md",
-    "BSDF 說明.md",
     "基本材質說明.md",
-    "BSDF 說明 1.md",
-    "材質 Node.md",
-    "Untitled.md"
+    "特殊材質技巧.md"
   ]
 }
