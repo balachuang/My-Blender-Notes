@@ -1,4 +1,5 @@
-#材質 #基礎
+#材質 #基礎 #節點
+
 - PBR: Physically Based Rendering
 - BRDF: Disney Principled BRDF (Bidirectional Reflectance Distribution Function)
 - BSDF: BRDF (反射) + BTDF (透射)
