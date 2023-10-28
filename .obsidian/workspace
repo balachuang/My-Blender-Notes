@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "材質/Node/Displacement.md",
+            "file": "建模/Edit Mode 技巧.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "材質/Node/Displacement.md",
+            "file": "建模/Edit Mode 技巧.md",
             "mode": "preview"
           }
         },
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "材質/Node/Displacement.md"
+                "file": "建模/Edit Mode 技巧.md"
               }
             }
           }
@@ -89,15 +89,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "材質/Node/Displacement.md",
-    "常用快速鍵.md",
-    "材質/基本說明.md",
-    "材質/材質 Tips.md",
-    "材質/Plugin/Node Wrangler.md",
-    "材質/Node/Voronoi Texture.md",
-    "材質/Node/Bump.md",
-    "材質/Node/BSDF.md",
+    "建模/Edit Mode 技巧.md",
+    "待整理/未整理 Tips.md",
+    "建模/編輯 Tips.md",
     "編輯/編輯 Tips.md",
-    "未整理 Tips.md"
+    "常用快速鍵.md",
+    "待整理/BlenderKit Online Asset Library.md",
+    "BlenderKit Online Asset Library.md",
+    "Untitled.md",
+    "材質/材質 Tips.md",
+    "材質/Node/Displacement.md"
   ]
 }
