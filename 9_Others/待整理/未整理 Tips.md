@@ -22,3 +22,5 @@
 
 - Texture Coordinate::Object -- Mapping::Vector
 - 不用貼圖的水泥材質: https://www.youtube.com/watch?v=XDqRa0ExDqs
+
+- 這裡可以免費下載一次四張貼圖: https://ambientcg.com/
