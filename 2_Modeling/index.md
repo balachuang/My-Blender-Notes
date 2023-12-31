@@ -1,6 +1,6 @@
 # Index
 
-- [Edit Mode 技巧](./Edit%20Mode%20技巧.md)
+- [基本建模](./基本建模.md)
 ___
 
 - [回主目錄](../README.md)
