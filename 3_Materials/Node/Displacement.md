@@ -6,3 +6,7 @@
 - 連接方式: Image::Color -- High::Displacement::Displacement -- Displacement::Output
 - 可以用 [[Node Wrangler]] 快速產生 Displacement 效果
 - 
+
+___
+
+- [回上層目錄](../index.md)
