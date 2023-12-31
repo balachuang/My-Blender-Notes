@@ -12,3 +12,4 @@
 - Ctrl-R: edit mode 新增環型切割
 - I: edit mode 新增內嵌
 - Alt-左鍵: edit mode 環型選取
+- link to [Bump](../材質/Node/Bump.md)
