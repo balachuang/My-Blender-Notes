@@ -19,3 +19,6 @@
 - Alt-D: 複製 Instance 物件
 - N: 縮放左邊面版
 - Alt-F: Fill, 選邊之後建面
+
+- Texture Coordinate::Object -- Mapping::Vector
+- 不用貼圖的水泥材質: https://www.youtube.com/watch?v=XDqRa0ExDqs

@@ -1,5 +1,5 @@
-#材質 #基礎 #節點
-
+### 肇記
+- 右邊面板的材質區和 Material 視窗的 BSDF 完全一樣
 - PBR: Physically Based Rendering
 - BRDF: Disney Principled BRDF (Bidirectional Reflectance Distribution Function)
 - BSDF: BRDF (反射) + BTDF (透射) --> Blender 裡使用的基本材質, 比 PBR / BRDF 有更多的設定功能
