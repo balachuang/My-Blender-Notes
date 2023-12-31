@@ -1,4 +1,4 @@
-### 肇記
+### BSDF
 - 右邊面板的材質區和 Material 視窗的 BSDF 完全一樣
 - PBR: Physically Based Rendering
 - BRDF: Disney Principled BRDF (Bidirectional Reflectance Distribution Function)
